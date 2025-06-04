@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![IRIS C2 Logo](./irislogo.01.svg)
+![IRIS C2 Logo](irislogo01.svg)
 
 **Advanced AI-Enabled Cyber Command & Control**
 
