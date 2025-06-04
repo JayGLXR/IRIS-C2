@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![IRIS C2 Logo](https://irisc2.com/assets/logo.png)
+
 
 **Advanced AI-Enabled Cyber Command & Control**
 
