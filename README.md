@@ -261,7 +261,7 @@ For licensing information, visit: **[IRISC2.com](https://irisc2.com)**
 
 [![Visit IRISC2.com](https://img.shields.io/badge/Learn_More-IRISC2.com-blue?style=for-the-badge)](https://irisc2.com)
 
-*Advanced AI-Enabled Command & Control Platform by Malicious Intelligence, LLC*
+*Advanced AI-Enabled Command & Control Platform by IRIS C2 Systems*
 
 </div>
 
