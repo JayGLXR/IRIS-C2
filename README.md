@@ -258,4 +258,4 @@ For licensing information, visit: **[IRISC2.com](https://irisc2.com)**
 
 ---
 
-**Disclaimer**: This software is provided for authorized security testing and research purposes only. Users are solely responsible for ensuring their use complies with all applicable laws and regulations. 
+**Disclaimer**: This software is provided for authorized security testing and research purposes only. Users are solely responsible for ensuring their use complies with all applicable laws and regulations. Images or other portrayals of the usage of this software are exclusively from legal operations within cyber test ranges.  
