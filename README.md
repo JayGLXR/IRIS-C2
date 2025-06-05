@@ -56,16 +56,6 @@ State-of-the-art techniques enable operators to obfuscate identify or attribute 
 - **OPSEC automation**
 
 ## 🔧 Specialized Modules
-
-### HuffLoader - Shellcode Obfuscation & Dynamic Syscall Execution
-Advanced payload transformation and execution capabilities with comprehensive obfuscation and execution techniques.
-
-- **HuffLoader Coding-based Shellcode Obfuscation**
-- **Dynamic API Resolution**
-- **Unhooking with restoration/destruction/reconstruction techniques**
-- **Indirect syscall Execution**
-- **Anti-Debugging**
-
 ### EagleC2
 Advanced command and control operations with comprehensive session management and payload deployment capabilities.
 
