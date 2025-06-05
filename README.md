@@ -1,7 +1,8 @@
 # IRIS C2 - Integrated Reconnaissance and Infiltration Suite
 
 <div align="center">
-![71430EDD-28C0-4DED-8D6F-57FE3D1D225B](https://github.com/user-attachments/assets/19779a58-bfc6-4ad3-abf0-1f20f8279692)
+![71430EDD-28C0-4DED-8D6F-57FE3D1D225B](https://github.com/user-attachments/assets/2a4c059b-f6c0-43c8-8783-db40874df3b2)
+
 
 **Advanced AI-Enabled Cyber Command & Control**
 
