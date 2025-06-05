@@ -1,8 +1,7 @@
 # IRIS C2 - Integrated Reconnaissance and Infiltration Suite
 
 <div align="center">
-
-![IRIS C2 Logo](irislogo01.svg)
+![71430EDD-28C0-4DED-8D6F-57FE3D1D225B](https://github.com/user-attachments/assets/19779a58-bfc6-4ad3-abf0-1f20f8279692)
 
 **Advanced AI-Enabled Cyber Command & Control**
 
